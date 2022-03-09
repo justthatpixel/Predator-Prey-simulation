@@ -1,4 +1,4 @@
-# Eco-system-sumulation
+# Eco-system-simulation
 
   
 <p>This is a  predator/prey simulator    </p>
