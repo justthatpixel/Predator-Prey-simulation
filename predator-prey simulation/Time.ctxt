@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Time
+comment0.text=\r\n\ \ A\ class\ \ that\ handles\ and\ represents\ the\ Time\ \r\n\ \ Time\ can\ either\ be\ day\ or\ night\r\n\r\n\ @author\ David\ J.\ Barnes,Michael\ K\u00F6lling,Raihan\ Kamal\ and\ Ibrahim\ Miah\r\n\ @version\ 2022.02.28\ (1)\r\n
+comment1.params=
+comment1.target=Time()
+comment1.text=\r\n\ Creats\ a\ new\ time\ object\r\n
+comment2.params=steps
+comment2.target=void\ updateSteps(int)
+comment2.text=\r\n\ Update\ the\ time\ after\ every\ step\r\n\ @param\ \ steps,\ steps\ used\ to\ calculate\ length\ of\ day\r\n
+comment3.params=
+comment3.target=java.lang.String\ isItDaytimeStringVer()
+comment3.text=\r\n\ @return\ day,\ returns\ the\ string\ "day"\ if\ it\ is\ daytime\ \r\n\ @return\ night,\ returns\ the\ string\ "night"\ if\ it\ is\ nighttime\r\n\ \r\n
+comment4.params=
+comment4.target=boolean\ isItDaytime()
+comment4.text=\r\n\ Method\ to\ check\ if\ it\ is\ daytime\r\n\ @return\ \ true\ -\ if\ it\ is\ day\r\n\ @return\ false\ -\ if\ it\ is\ night\r\n
+comment5.params=time
+comment5.target=void\ getTimeObject(Time)
+comment5.text=\r\n\ Method\ To\ get\ time\ object\r\n
+numComments=6

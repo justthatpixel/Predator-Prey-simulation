@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Disease
+comment0.text=\r\n\ A\ class\ \ that\ handles\ and\ represents\ the\ disease\ status\ of\ an\ animal\r\n\r\n\ @author\ David\ J.\ Barnes,Michael\ K\u00F6lling,Raihan\ Kamal\ and\ Ibrahim\ Miah\r\n\ @version\ 2022.02.28\ (1)\r\n
+comment1.params=
+comment1.target=Disease()
+comment1.text=\r\n\ Creates\ a\ new\ disease\ condition/status\ of\ the\ animal\r\n\ Animals\ that\ have\ the\ "disease"\ charachteristic\ are\ random\ chosen\ at\ birth,\r\n\ \r\n
+comment2.params=
+comment2.target=void\ randomInfection()
+comment2.text=\r\n\ Method,\ randomly\ spawn\ infection\ in\ a\ populatiom\r\n\ \ If\ infected\ condition\ for\ animal\ is\ true,\ it\ can\ now\ can\ spread\ infection\ which\ will\ kill\ it\r\n
+comment3.params=
+comment3.target=void\ setInfected()
+comment3.text=\r\n\ Sets\ disease\ condition\ to\ positive\ and\ increments\ disease/infection\ counter\ for\ the\ GUI\r\n\ \r\n\ \ \ \ \r\n
+comment4.params=
+comment4.target=boolean\ returnInfected()
+comment4.text=\r\n@return\ infected,\ returns\ the\ infected\ condtion\ for\ an\ organism\r\n\ \ \ \ \r\n
+numComments=5

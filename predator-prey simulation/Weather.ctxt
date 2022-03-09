@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Weather
+comment0.text=\r\n\ A\ class\ that\ handles\ and\ represents\ the\ Weather\r\n\ Weather\ condtion\ can\ either\ be\:Foggy,Sunny\ or\ rainy\r\n\r\n\ @author\ David\ J.\ Barnes,Michael\ K\u00F6lling,Raihan\ Kamal\ and\ Ibrahim\ Miah\r\n\ @version\ 2022.02.28\ (1)\r\n
+comment1.params=
+comment1.target=Weather()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Weather\r\n
+comment2.params=
+comment2.target=void\ updateWeather()
+comment2.text=\r\n\ The\ weather\ is\ chosen\ randomly\ using\ a\ random\ number\ generator\r\n
+comment3.params=
+comment3.target=java.lang.String\ whatWeatherIsIt()
+comment3.text=\r\n\ @return\ Sun-\ if\ the\ weather\ is\ sunny\r\n\ @return\ Rain-\ if\ the\ weather\ is\ rainy\r\n\ @return\ Fog-\ if\ the\ weather\ is\ foggy\r\n
+comment4.params=
+comment4.target=boolean\ isItSunny()
+comment4.text=\r\n\ @return\ true-\ \ if\ the\ weather\ is\ sunny\r\n
+comment5.params=
+comment5.target=boolean\ isItFoggy()
+comment5.text=\r\n\ @return\ true-\ \ if\ the\ weather\ is\ Foggy\r\n
+comment6.params=
+comment6.target=boolean\ isItRainy()
+comment6.text=\r\n\ @return\ true-\ \ if\ the\ weather\ is\ Rainy\r\n
+numComments=7
